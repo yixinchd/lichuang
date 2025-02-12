@@ -1,0 +1,34 @@
+[
+    {
+        "brand_name": "ST(先科)",
+        "marque": "MCL4148PF",
+        "item_code": "C7471648",
+        "encapsulation": "LS-31",
+        "packaging_method": "编带",
+        "gross_weight": "0.03192克(g)"
+    },
+    {
+        "brand_name": "宏嘉诚",
+        "marque": "1N4148W",
+        "item_code": "C7420318",
+        "encapsulation": "SOD-123",
+        "packaging_method": "编带",
+        "gross_weight": "0.04克(g)"
+    },
+    {
+        "brand_name": "宏嘉诚",
+        "marque": "BAV99",
+        "item_code": "C7420336",
+        "encapsulation": "SOT-23",
+        "packaging_method": "编带",
+        "gross_weight": "0.04克(g)"
+    },
+    {
+        "brand_name": "BORN(伯恩半导体)",
+        "marque": "0603ESDA-05N",
+        "item_code": "C316054",
+        "encapsulation": "0603",
+        "packaging_method": "编带",
+        "gross_weight": "0.043克(g)"
+    }
+]
